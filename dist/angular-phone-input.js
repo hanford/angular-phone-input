@@ -209,7 +209,7 @@ function phoneDirective () {
 }
 
 function link (scope, element, attrs, ctrl) {
-  var phoneMask = new StringMask('(000) 000-0000')
+  var phoneMask = new StringMask('000-000-0000')
 
   function removeNonDigits (value) {
     return value.replace(/[^0-9]/g, '')
