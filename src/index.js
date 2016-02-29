@@ -3,6 +3,7 @@ var StringMask = require('string-mask')
 module.exports = require('angular')
   .module('angular-phone-input', [])
   .directive('phoneNumber', phoneDirective)
+  .name
 
 function phoneDirective () {
   return {
