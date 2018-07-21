@@ -1,6 +1,6 @@
 ## angular-phone-input
 
-[Live Demo!](https://hanford.github.io/angular-phone-input)
+[Live Demo!](https://angular-phone-input.jackhanford.com)
 
 [![NPM][star-icon]][star-url]
 
